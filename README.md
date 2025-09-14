@@ -1,6 +1,5 @@
 # week8-database-assigment-studentrecord
 Week 8_studentrecord_database assignment
--- student_records_db.sql
 -- Database: Student Records Management System
 -- Author: (your name)
 -- Date: (today)
